@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "304069081398",
+    "project_id": "trilochanaa-d388d",
+    "storage_bucket": "trilochanaa-d388d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304069081398:android:3215aa448ab55daf36db97",
+        "android_client_info": {
+          "package_name": "com.devazo.trilochanaa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRqwRfGp6qB6wwh8oEqHfDYNik6J9hah4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "916840265010",
+    "project_id": "visitor-app-f4cf8",
+    "storage_bucket": "visitor-app-f4cf8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916840265010:android:80c34fe00d0d67cd24932b",
+        "android_client_info": {
+          "package_name": "com.devazo.trilochanaa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "916840265010-h5vm8q8pjuqoc9hnqrp0jhjurej498cj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.devazo.trilochanaa",
+            "certificate_hash": "2a2b4092fee0c63cb0330a61d92a3cf33d2453f0"
+          }
+        },
+        {
+          "client_id": "916840265010-80v8que47kmhg9nkcg8i5jtkd08hpppc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3yzZwjgpH4GU-lck_M0SPfPZyOG_DNco"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "916840265010-80v8que47kmhg9nkcg8i5jtkd08hpppc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
